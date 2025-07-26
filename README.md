@@ -1,7 +1,5 @@
 ### Full Stack / ML Engineer, 8+ years experience
 
-### ALEKSANDR
-
 ## ABOUT
 
 A Full-Stack Engineer with over 8 years of experience designing and developing high performance web applications and scalable services, including 2.2 years as a Team Lead. I have deep expertise in backend development with Java and Spring Boot, as well as frontend development using React. My experience covers system architecture design, database management (Oracle, PostgreSQL), and deployment in AWS and Azure cloud environments. I have successfully implemented CI/CD pipelines, reducing deployment time
