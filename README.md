@@ -6,7 +6,6 @@ A Full-Stack Engineer with over 8 years of experience designing and developing h
 
 Beyond my core expertise, I have implemented features involving low-level graphics and machine learning. Passionate about the evolution of AI, I actively stay current with the latest trends and develop AI Agents as a member of the TokyoAI community, regularly attending its meetups. I am seeking an opportunity to apply my skills to create innovative products within a strong team.
 
----
 
 ### SKILLS
 
@@ -22,7 +21,6 @@ Azure, AWS, Oracle Cloud Infrastructure (OCI), Docker / Docker Compose, GitLab C
 **Other:**  
 Git / GitLab, XML, JSON, SSH / SSL, ServiceNow, ERP (JDE, SAP), SAP LOGON, Windows / Windows Server, Mac.
 
----
 
 ## EXPERIENCE
 
@@ -49,7 +47,6 @@ Git / GitLab, XML, JSON, SSH / SSL, ServiceNow, ERP (JDE, SAP), SAP LOGON, Windo
 - Improved network security by 18% through strict access controls.
 - Reduced average ticket resolution time by 12% by optimizing support workflows.
 
----
 
 ## EDUCATION
 
