@@ -7,7 +7,7 @@ A Full-Stack Engineer with over 8 years of experience designing and developing h
 Beyond my core expertise, I have implemented features involving low-level graphics and machine learning. Passionate about the evolution of AI, I actively stay current with the latest trends and develop AI Agents as a member of the TokyoAI community, regularly attending its meetups. I am seeking an opportunity to apply my skills to create innovative products within a strong team.
 
 
-### SKILLS
+## SKILLS
 
 **BackEnd:**  
 Java, Python, C#, PHP, SQL, PL/SQL, Spring / Spring Boot, ASP.NET, MyBatis, Lombok, Junit, JSF, Gradle, Jacoco, Oracle, PostgreSQL, SQL Server, MySQL, SAP HANA, Swagger / OpenAPI, JMeter, UI5.
